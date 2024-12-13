@@ -45,4 +45,4 @@ This course has refined my ability to visualize and communicate data-driven insi
 ### Contact
 Feel free to reach out for discussions or collaborations in data visualization and analytics!
 
-- **LinkedIn**: [Your LinkedIn Profile](https://www.linkedin.com/in/bhnjagtap)
+- **LinkedIn**: [Your LinkedIn Profile](https://www.linkedin.com/in/bhargav-jagtap)
